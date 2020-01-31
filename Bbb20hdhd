@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1,Big Brother Brasil [CAM001] HD
+
+http://pl.server.kkecho.xyz/HD_BBB_CONFESSIONARIO/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM002] HD
+
+http://us12.server.kkvictor.xyz/HD_BBB_COZINHA_CAMAROTE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM003] HD
+
+http://us12.server.kktango.xyz/HD_BBB_COZINHA_VIP/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM004] HD
+
+http://us14.server.kpfoxtrot.xyz/HD_BBB_JARDIM_CAMAROTE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM005] HD
+
+http://us14.server.kp2juliett.xyz/HD_BBB_PISCINA/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM006] HD
+
+http://us14.server.kp2lima.xyz/HD_BBB/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM007] HD
+
+http://us14.server.kp2kilo.xyz/HD_BBB_QUARTO_CAMAROTE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM008] HD
+
+http://us14.server.kp2kilo.xyz/HD_BBB_QUARTO_CEU/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1,Big Brother Brasil [CAM009] HD
+
+http://us12.server.kkgolf.xyz/HD_BBB_QUARTO_VILA/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
